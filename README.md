@@ -1,2 +1,2 @@
-# Portfolio
-Repositori ini berisi portfolio pribadi saya yang mencakup berbagai proyek dan pencapaian dalam bidang pengembangan perangkat lunak. Di dalamnya, Anda akan menemukan contoh kode, dokumentasi proyek, dan hasil kerja yang menunjukkan keterampilan dan pengalaman saya.
+# Lao Shen Premiere
+Repositori ini berisi portfolio pribadi saya yang mencakup proyek membuat website sederhana yang ditujukan sebagai bahan presentasi sidang mini project 1.
